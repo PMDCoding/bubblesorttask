@@ -1,5 +1,5 @@
 
-def bubble_sort(any_list:[])->[]:
+def bubble_sort(any_list):
     sorted = False
     while not sorted:
         sorted = True
